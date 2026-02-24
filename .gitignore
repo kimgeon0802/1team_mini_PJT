@@ -15,7 +15,8 @@ wheels/
 # 데이터 파일 (용량 큼)
 data/*.csv
 *.csv
-＊.txt
+#사용자 정보
+users.json
 
 # IDE
 .idea/
